@@ -1,0 +1,27 @@
+.quantity{
+  display: flex;
+  justify-content: center;
+}
+.num{
+font-weight: bold;
+padding: 10px;
+background-color: red;
+color: white;
+
+
+
+}
+.increment{
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+}
+.decrement{
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+}
